@@ -5,7 +5,7 @@ Author/University | Link  | Platform | Content | Comments
 Oakland University | [Link](https://passlab.github.io/CSE564/) | Unspecified | HW | ISA + a focus on RISC-V 
 University of Rochester | [Link](http://cs.rochester.edu/courses/252/spring2018/decks/Lecture1.pdf) | Unspecified | SW | [General link for the whole course](https://www.cs.rochester.edu/courses/252/spring2018/schedule.html) 
 University of Cambridge | [Link](https://www.cl.cam.ac.uk/teaching/1617/ECAD+Arch/exercise-clarvi.html) | FPGA | HW | Exercise + SystemVerilog code of a RISC-V processor 
-University of Wisconsin-Madison | [Link](http://pages.cs.wisc.edu/~karu/courses/cs752/fall2016/wiki/index.php?n=Main.Project) | Sim | HW | [A few nots about processor design](http://pages.cs.wisc.edu/~karu/courses/cs752/fall2016/project/pdf/05_ooo.pdf) 
+University of Wisconsin-Madison | [Link](http://pages.cs.wisc.edu/~karu/courses/cs752/fall2016/wiki/index.php?n=Main.Project) | Sim | HW | [A few notes about processor design](http://pages.cs.wisc.edu/~karu/courses/cs752/fall2016/project/pdf/05_ooo.pdf) 
 UC Irvine | [Link](https://canvas.eee.uci.edu/courses/7673/assignments/syllabus) | Sim | HW | [SystemVerilog basics](https://canvas.eee.uci.edu/courses/7673/modules) 
 University of Texas | [Link](https://www.cs.utexas.edu/users/hunt/class/2019-spring/cs340d/cs340d.html) | Unspecified | tools | Nothing dedicated to RISC-V 
 Florida State University | [Link](http://www.cs.fsu.edu/~zwang/cda3101.html) | Sim | HW | Nothing dedicated to RISC-V 
